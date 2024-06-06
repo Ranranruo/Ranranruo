@@ -1,4 +1,4 @@
-![Group 5](https://github.com/Ranranruo/Ranranruo/assets/123725521/26656087-d943-4674-98c6-5dff83427c3c)
+![Group 5 (1)](https://github.com/Ranranruo/Ranranruo/assets/123725521/1681d434-9c40-4ea2-892b-be7150a22b2c)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsalstjr58&show_icons=true&theme=radical)
 
