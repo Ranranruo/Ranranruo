@@ -1,1 +1,1 @@
-![whitenodescriptionlogo](https://github.com/Ranranruo/Ranranruo/assets/123725521/7d6fef76-1878-4dda-bbd4-0eaff430ca8e)
+![whitenodescriptionlogo (1)](https://github.com/Ranranruo/Ranranruo/assets/123725521/0c183a02-fd41-417f-929c-54408e69e56f)
