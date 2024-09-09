@@ -1,6 +1,7 @@
 <div align="center">
 <!-- Header banner -->
-![Group 5 (1) 1](https://github.com/Ranranruo/Ranranruo/assets/123725521/79068d77-42b5-4e37-a788-322ec4360e07)
+    
+![337368364-79068d77-42b5-4e37-a788-322ec4360e07](https://github.com/user-attachments/assets/c4e4bfba-4b08-40e4-b1c2-43cebe0a8e0c)
 
 <br><br>
     
