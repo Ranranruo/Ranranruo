@@ -8,6 +8,8 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Minseok+Shin;I+learning+web+develop" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
+<summary>I've used</summary>
+<details>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,php&theme=light)](https://skillicons.dev)
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=threejs,react,emotion,redux&theme=light)](https://skillicons.dev)
@@ -17,6 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase,supabase,mongo&theme=light)](https://skillicons.dev)
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=github,git,azure,docker&theme=light)](https://skillicons.dev)
+</details>
 
 <br><br>
 <div align="center">
