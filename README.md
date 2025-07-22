@@ -10,7 +10,7 @@
 <!-- My CV/resume -->
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,threejs,react,laravel,spring,rabbitmq,mysql,redis,mongo,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,threejs,react,laravel,spring,rabbitmq,mysql,redis,mongo,docker,figma&theme=light)](https://skillicons.dev)
 
 
 <br><br>
