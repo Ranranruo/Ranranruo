@@ -8,6 +8,7 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Minseok+Shin;I+learning+web+develop" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
+<br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,threejs,react,laravel,spring,rabbitmq,mysql,redis,mongo,docker&theme=light)](https://skillicons.dev)
 
